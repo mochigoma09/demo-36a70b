@@ -1,2 +1,3 @@
 # demo-36a70b
-Auto generated demo site for NAIL SALON Bee.
+
+AIによって自動生成された NAIL SALON Bee. 様向けのデモサイトです。
